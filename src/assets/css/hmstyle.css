@@ -1658,7 +1658,6 @@ dt + dd {
         position: absolute;
         width: 100%;
         height: 0;
-        height: 2 px\9;
         background-position: 0 -188px;
         background-repeat: repeat-x;
     }
@@ -1670,10 +1669,8 @@ dt + dd {
     .shadow-l {
         position: absolute;
         left: 0;
-        _left: -42px;
         top: 0;
         width: 0;
-        width: 2 px\9;
         height: 100%;
         background-position: right 0;
         background-repeat: repeat-y;
@@ -1684,7 +1681,6 @@ dt + dd {
         right: 0;
         top: 0;
         width: 0;
-        width: 2 px\9;
         height: 100%;
         background-repeat: repeat-y;
     }
@@ -1794,7 +1790,6 @@ dt + dd {
     .category-content .menu-item.bottom {
         bottom: -2px;
         *bottom: -6px;
-        _*bottom : -7px;
     }
 
     .mr-dimmer {
@@ -2364,7 +2359,6 @@ dt + dd {
     /*第二套楼层颜色*/
     .f1 .text-two.big {
         background: linear-gradient(#6bdea7, #68937f);
-        filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#6bdea7', endColorStr='#68937f', gradientType='0');
     }
 
     .f1 .shopTitle {
@@ -2382,7 +2376,6 @@ dt + dd {
 
     .f3 .text-two.big {
         background: linear-gradient(#b474fe, #594e90);
-        filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#b474fe', endColorStr='#594e90', gradientType='0');
     }
 
     .f3 .shopTitle {
@@ -2400,7 +2393,6 @@ dt + dd {
 
     .f5 .text-two.big {
         background: linear-gradient(#6cc67c, #648b6c);
-        filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#6cc67c', endColorStr='#648b6c', gradientType='0');
     }
 
     .f5 .shopTitle {
@@ -2418,7 +2410,6 @@ dt + dd {
 
     .f7 .text-two.big {
         background: linear-gradient(#c6a868, #9c7b36);
-        filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#c6a868', endColorStr='#9c7b36', gradientType='0');
     }
 
     .f7 .shopTitle {
@@ -2436,7 +2427,6 @@ dt + dd {
 
     .f9 .text-two.big {
         background: linear-gradient(#f8c375, #caa463);
-        filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#f8c375', endColorStr='#caa463', gradientType='0');
     }
 
     .f9 .shopTitle {
